@@ -3,7 +3,7 @@
 </head>
 <body>
 <h1>Daniel Caunt<br>Dynamic Web Apps Portfolio</h1>
-<img src='/images/1d2abae.jpg' alt='Dan'>
+<img src='images/1d2abae.jpg' alt='Dan'>
 <h3>Project 2</h3>
 View: [link]
 Github: [link]
