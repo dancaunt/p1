@@ -32,16 +32,16 @@
 <img src='images/1d2abae.jpg' alt='Dan'>
 
 <h3>Project 2</h3>
-View: [link]
-Github: [link]
+View: [<a href="http://p2.rabbithill.org">link</a>]
+Github: [<a href="https://github.com/dancaunt/p2">link</a>]
 
 <h3>Project 3</h3>
-View: [link]
-Github: [link]
+View: [<a href="http://p3.rabbithill.org">link</a>]
+Github: [<a href="https://github.com/dancaunt/p3">link</a>]
 
 <h3>Project 4</h3>
-View: [link]
-Github: [link]
+View: [<a href="http://p4.rabbithill.org">link</a>]
+Github: [<a href="https://github.com/dancaunt/p4">link</a>]
 
 <h2>In 2+ sentences describe who you are and what you do.</h2>
 <p>I'm the systems administrator for the Harvard Language Resource Center.  I am also an amateur astronomer and avid hockey fan.</p>
@@ -56,7 +56,7 @@ Github: [link]
 <p>I am developing on a Mac.</p>
 
 <h2>Anything else we should know?</h2>
-<p>I am hosting my website at home instead of using Digital Ocean.  My hosting platform is SuSE Linux on a Dell PC running a KVM virtual CentOS server.</p>
+<p>I am hosting my website at home instead of using Digital Ocean.  My platform is a Dell PC with SuSE Linux hosting a virtual CentOS server in KVM.</p>
 
 </div>
 </body>
