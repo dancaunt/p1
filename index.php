@@ -32,7 +32,7 @@
 <img src='images/1d2abae.jpg' alt='Dan'>
 
 <h3>Project 2</h3>
-View: [<a href="http://p2.rabbithill.org">link</a>]
+View: [<a href="http://p2.rabbithill.org" target="_blank">link</a>]
 Github: [<a href="https://github.com/dancaunt/p2">link</a>]
 
 <h3>Project 3</h3>
