@@ -33,7 +33,7 @@
 
 <h3>Project 2</h3>
 View: [<a href="http://p2.rabbithill.org" target="_blank">link</a>]
-Github: [<a href="https://github.com/dancaunt/p2">link</a>]
+Github: [<a href="https://github.com/dancaunt/p2" target="_blank">link</a>]
 
 <h3>Project 3</h3>
 View: [<a href="http://p3.rabbithill.org">link</a>]
